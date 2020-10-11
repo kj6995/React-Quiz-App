@@ -1,4 +1,4 @@
-This project is a tutorial on how to make a Quiz App using React and Open Trivia DB API. The full video of this tutorial can be found on : <a href="https://youtu.be/QJ830RHCbo8">Click Here</a> (Right Click & Open in New Tab)
+This project is a tutorial on how to make a Quiz App using React and Open Trivia DB API. The full video of this tutorial can be found on : <a href="https://youtu.be/Oi763-xb074">Click Here</a> (Right Click & Open in New Tab)
 
 ## Demo
 
